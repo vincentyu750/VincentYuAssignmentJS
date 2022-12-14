@@ -72,7 +72,6 @@ a {
     color: black;
 }
 
-a:hover,
 .fake-button:hover {
     text-decoration: underline;
     background-color: #4278e5;
